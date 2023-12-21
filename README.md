@@ -1,4 +1,9 @@
 # FlarePrediction
+Due to the large size of the model weight files in the weight folder, we have provided a Baidu Netdisk link for access. The link is as follows:
+
+Additionally, we have shared a more comprehensive project link on Baidu Netdisk, which includes all the code and datasets mentioned in this paper. The link is as follows:
+
+
 This repository contains the source code for predicting solar flares. The codebase is organized into several folders, each serving a specific purpose:
 
 common/: This directory contains reusable code components that are utilized across the project. It includes utility functions and common definitions that are central to the operation of the code.
