@@ -14,3 +14,15 @@ model/: In this directory, you will find Python files that define various neural
 pic_draw/: This folder contains the code for drawing ROC (Receiver Operating Characteristic) curves. These scripts are used for visualizing and evaluating the performance of the predictive models.
 
 util/: The util directory houses various utility functions. These Python files contain supplementary code that supports the main functionality, such as data processing, logging, and other helper functions.
+
+train_feature_importent folder/: Contains the training code for the related models.
+
+train folder/: Includes the training code for models used in the feature importance analysis.
+
+outputs folder/: Stores the results of various models and related experiments.
+
+detect folder/: Contains code related to model prediction.
+
+detect_feture_importence/ and feature_importance_cut/ folders: Hold code related to experiments on feature importance.
+
+data/: Includes data used in our paper
