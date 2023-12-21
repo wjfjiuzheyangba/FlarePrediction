@@ -1,0 +1,120 @@
+time_steps=1 >=C class flare prediction on testing set:
+tss：0.5512±0.0431
+recall：0.7937±0.0359
+precision：0.7960±0.0234
+acc：0.7771±0.0217
+hss：0.5511±0.0433
+far：0.2040±0.0234
+bs：0.1659±0.0170
+bss：0.3340±0.0687
+########################
+time_steps=2 >=C class flare prediction on testing set:
+tss：0.5560±0.0421
+recall：0.7947±0.0389
+precision：0.7992±0.0256
+acc：0.7794±0.0209
+hss：0.5558±0.0420
+far：0.2008±0.0256
+bs：0.1649±0.0168
+bss：0.3395±0.0679
+########################
+time_steps=5 >=C class flare prediction on testing set:
+tss：0.5462±0.0584
+recall：0.7937±0.0447
+precision：0.7919±0.0231
+acc：0.7749±0.0302
+hss：0.5464±0.0596
+far：0.2081±0.0231
+bs：0.1667±0.0283
+bss：0.3326±0.1150
+########################
+time_steps=10 >=C class flare prediction on testing set:
+tss：0.5445±0.0489
+recall：0.7895±0.0447
+precision：0.7938±0.0275
+acc：0.7737±0.0248
+hss：0.5443±0.0493
+far：0.2062±0.0275
+bs：0.1598±0.0144
+bss：0.3583±0.0584
+########################
+time_steps=20 >=C class flare prediction on testing set:
+tss：0.6136±0.0585
+recall：0.8211±0.0394
+precision：0.8265±0.0373
+acc：0.8080±0.0281
+hss：0.6132±0.0573
+far：0.1735±0.0373
+bs：0.1456±0.0188
+bss：0.4165±0.0745
+########################
+time_steps=40 >=C class flare prediction on testing set:
+tss：0.6745±0.0377
+recall：0.8358±0.0625
+precision：0.8616±0.0174
+acc：0.8371±0.0222
+hss：0.6730±0.0420
+far：0.1384±0.0174
+bs：0.1279±0.0137
+bss：0.4875±0.0515
+########################
+time_steps=1 >=M class flare prediction on testing set:
+tss：0.6386±0.0604
+recall：0.8429±0.0737
+precision：0.5151±0.0520
+acc：0.8051±0.0362
+hss：0.5147±0.0570
+far：0.4849±0.0520
+bs：0.1350±0.0183
+bss：0.2638±0.0653
+########################
+time_steps=2 >=M class flare prediction on testing set:
+tss：0.6314±0.0492
+recall：0.8457±0.0666
+precision：0.5058±0.0616
+acc：0.7977±0.0389
+hss：0.5037±0.0622
+far：0.4942±0.0616
+bs：0.1405±0.0198
+bss：0.2445±0.0687
+########################
+time_steps=5 >=M class flare prediction on testing set:
+tss：0.6464±0.0654
+recall：0.8429±0.0811
+precision：0.5266±0.0566
+acc：0.8114±0.0396
+hss：0.5265±0.0619
+far：0.4734±0.0566
+bs：0.1380±0.0232
+bss：0.2594±0.0936
+########################
+time_steps=10 >=M class flare prediction on testing set:
+tss：0.6586±0.0543
+recall：0.8400±0.0758
+precision：0.5395±0.0302
+acc：0.8229±0.0164
+hss：0.5433±0.0311
+far：0.4605±0.0302
+bs：0.1354±0.0180
+bss：0.2572±0.0782
+########################
+time_steps=20 >=M class flare prediction on testing set:
+tss：0.6629±0.0616
+recall：0.8800±0.1021
+precision：0.5185±0.0752
+acc：0.8023±0.0449
+hss：0.5228±0.0660
+far：0.4815±0.0752
+bs：0.1438±0.0311
+bss：0.2344±0.1190
+########################
+time_steps=40 >=M class flare prediction on testing set:
+tss：0.6986±0.0498
+recall：0.8943±0.0572
+precision：0.5413±0.0651
+acc：0.8223±0.0350
+hss：0.5606±0.0650
+far：0.4587±0.0651
+bs：0.1438±0.0305
+bss：0.2788±0.0789
+########################
